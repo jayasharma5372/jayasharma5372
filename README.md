@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Railway Reservation System**
 
-- 💬 Ask me about **c,python,java,html,android,c#,c++,css,ML,OOPs,javascript,react.js,**
+- 💬 Ask me about **c,python,java,html,android,c#,c++,css,ML,OOPs,javascript,react.js,nodejs**
 
 - 📫 How to reach me **jayasharma5372@gmail.com**
 
