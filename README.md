@@ -14,7 +14,6 @@ I'm a creative developer passionate about building clean, user-friendly, and sca
 
 I work with startups and businesses to build custom, performant UIs and Shopify/Wix/Webflow integrations using modern stacks.
 
-<img src="https://cdn.dribbble.com/users/722835/screenshots/4641793/media/85f3fba846e53926a86b88c8e9c4e001.png" width="300" alt="developer working illustration" />
 
 ---
 
@@ -72,7 +71,7 @@ I work with startups and businesses to build custom, performant UIs and Shopify/
 
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayasharma5372@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jaya-sharma-9954aa277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jaya-sharma-9954aa277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
 
 ---
 
