@@ -68,11 +68,6 @@ I work with startups and businesses to build custom, performant UIs and Shopify/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasharma5372&" alt="jayasharma5372" /></p>
 
-
-### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayasharma5372@gmail.com)
-
-
 ---
 
 > ✨ *“Code is like magic — if you know the spell, you can build anything.”*
