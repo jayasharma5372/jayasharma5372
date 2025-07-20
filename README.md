@@ -1,11 +1,52 @@
 <h1 align="center">Hi 👋, I'm Jaya Sharma</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center"><b>Frontend Developer | Turning ideas into powerful digital experiences</b></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/jaya-sharma-9954aa277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jaya-sharma-9954aa277" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jayasharma5372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jayasharma5372" height="30" width="40" /></a>
 </p>
+
+---
+
+### 🚀 About Me
+I'm a creative developer passionate about building clean, user-friendly, and scalable web interfaces.
+
+I work with startups and businesses to build custom, performant UIs and Shopify/Wix/Webflow integrations using modern stacks.
+
+<img src="https://cdn.dribbble.com/users/722835/screenshots/4641793/media/85f3fba846e53926a86b88c8e9c4e001.png" width="300" alt="developer working illustration" />
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+#### ⚙️ Animation
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat&logo=framer)
+
+#### 🧠 CMS / Platforms
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000?style=flat&logo=wix&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Webflow](https://img.shields.io/badge/-Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+
+---
+
+### 💡 What I Do
+- 🔧 Build custom, scalable front-end components
+- 🛍️ Create eCommerce experiences using Shopify, Wix, and Webflow
+- ⚙️ Use Git & GitHub for version control
+- ✨ Add delightful animations and effects
+- 🎨 Design to development using Figma & Adobe XD
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" dir="auto"> 
@@ -27,3 +68,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasharma5372&show_icons=true&locale=en" alt="jayasharma5372" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasharma5372&" alt="jayasharma5372" /></p>
+
+
+### 📫 Let's Connect
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayasharma5372@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jaya-sharma-9954aa277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+> ✨ *“Code is like magic — if you know the spell, you can build anything.”*
