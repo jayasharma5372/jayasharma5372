@@ -71,7 +71,7 @@ I work with startups and businesses to build custom, performant UIs and Shopify/
 
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayasharma5372@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jaya-sharma-9954aa277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
+
 
 ---
 
