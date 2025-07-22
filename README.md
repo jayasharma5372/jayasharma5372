@@ -12,7 +12,7 @@
 ### 🚀 About Me
 I'm a creative developer passionate about building clean, user-friendly, and scalable web interfaces.
 
-I work with startups and businesses to build custom, performant UIs and Shopify/Wix/Webflow integrations using modern stacks.
+I work with startups and businesses to build custom, performant UIs and Shopify/Wordpress/Wix/Webflow integrations using modern stacks.
 
 
 ---
