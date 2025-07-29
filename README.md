@@ -66,8 +66,6 @@ I work with startups and businesses to build custom, performant UIs and Shopify/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasharma5372&show_icons=true&locale=en" alt="jayasharma5372" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasharma5372&" alt="jayasharma5372" /></p>
-
 ---
 
 > ✨ *“Code is like magic — if you know the spell, you can build anything.”*
